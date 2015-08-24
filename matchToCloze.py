@@ -2,7 +2,6 @@
 # Twitter/GitHub: @sdeans0
 # Licensed under the Apache License, Version 2.0 (see below)
 
-
 # This program is for turning matching type Moodle questions to Cloze type questions in 
 # Moodle xml format.
 # Run it from the command line by importing the moduleand running the 
